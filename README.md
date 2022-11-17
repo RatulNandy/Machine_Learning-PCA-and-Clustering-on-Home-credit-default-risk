@@ -1,1 +1,1 @@
-# PCA-and-Clustering-on-Home-credit-default-risk
+# This programs performs clustering ( K-Means and Hierarchical Clustering) and PCA on home-credit-default-risk dataset
